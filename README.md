@@ -131,3 +131,4 @@ For more details on configuration, see the **[Testing Documentation (docs/TESTIN
 - **SEO/Metadata:** Always update `app/layout.tsx` metadata variables. Current metadata includes strict OpenGraph image mappings and custom domain mappings.
 - **Icons:** Rely on `lucide-react` for standard UI iconography. For tech logos, map raw `.png`/`.svg` entries in `public/` directory or reference reliable CDNs.
 # portfolio
+# portfolio
