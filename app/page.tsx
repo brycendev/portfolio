@@ -18,7 +18,7 @@ export default function Portfolio() {
           <AboutSection />
           <SkillsSection />
           <ExperienceSection />
-          <ProjectsSection />
+          {/* <ProjectsSection /> */}
           {/* <CertificatesSection /> */}
           <ContactSection />
         </main>

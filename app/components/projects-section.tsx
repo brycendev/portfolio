@@ -416,7 +416,7 @@ export default function ProjectsSection() {
             size="lg"
             variant="outline"
             className="border-neutral-700 text-neutral-300 hover:bg-neutral-800 hover:text-white px-8 py-6 rounded-full text-lg transition-all"
-            onClick={() => window.open("https://github.com/surendravarikallu", "_blank")}
+            onClick={() => window.open("https://github.com/brycendev", "_blank")}
           >
             <Github className="mr-2 h-5 w-5" />
             View More on GitHub
